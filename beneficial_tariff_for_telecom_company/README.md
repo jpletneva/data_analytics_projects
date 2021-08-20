@@ -1,19 +1,8 @@
-# Пример описания проекта в README.md - Музыка больших городов
+## Finding of beneficial tariff for telecom company
 
+## Research task
 
-## Данные
+Analyze the behavior of customers and find the optimal tariff based on the data of the customers of the mobile operator, 
 
-В наличии были следующие данные о прослушиваниях треков в сервисе Яндекс.Музыка:
-- Название трека
-- Исполнитель
-- Жанр
-- Город
-- День прослушивания
-- Время прослушивания
-
-## Задача
-
-Провести сравнение музыкальных предпочтений у пользователей Яндекс.Музыки, проживающих в Москве и Санкт-Петербурге. Сравнить прослушивания в понедельник, среду и пятницу по городам, а также сравнить жанры, которые слушают пользователи утром в понедельник и вечером в пятницу в Москве и Санкт-Петербурге.  
-
-## Используемые библиотеки
-*pandas*
+## Skills and tools
+*Python*, *pandas*, *Matplotlib*, *NumPy*, *SciPy*, *statistical hypothesis testing*
