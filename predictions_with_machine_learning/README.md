@@ -1,4 +1,4 @@
-## Testing hypotheses for increasing revenue in an online store by evaluating the results of an A / B test
+## Predicting the customer churn for fitness centers
 
 ## Research task
 
