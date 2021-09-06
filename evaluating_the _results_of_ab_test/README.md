@@ -1,8 +1,8 @@
-## Optimization of marketing costs for event ticketing platform
+## Testing hypotheses for increasing revenue in an online store by evaluating the results of an A / B test
 
 ## Research task
 
-Analyze data from the Yandex.Afisha website (event ticketing platform) in order to optimize marketing costs.Calculated metrics LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI. 
+Analyze the results of an A / B test, build graphs of cumulative revenue, average bill, conversions by group, calculate the statistical significance of differences in conversions and average revenue between two groups. 
 
 ## Skills and tools
-*Matplotlib*, *pandas*, *seaborn*, *cohort analysis*, *marketing metrics*
+*pandas*, *A/B testing*, *SciPy*, *Matplotlib*, *statistical hypothesis testing*
