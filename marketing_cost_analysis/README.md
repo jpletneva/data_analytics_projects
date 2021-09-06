@@ -5,4 +5,4 @@
 Analyze data from the Yandex.Afisha website (event ticketing platform) in order to optimize marketing costs.Calculated metrics LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI. 
 
 ## Skills and tools
-*Matplotlib*, *pandas*, *cohort analysis*, *marketing metrics*
+*Matplotlib*, *pandas*, *seaborn*, *cohort analysis*, *marketing metrics*
