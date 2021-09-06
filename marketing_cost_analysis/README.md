@@ -1,8 +1,8 @@
-## Finding of beneficial tariff for telecom company
+## Optimization of marketing costs for event ticketing platform
 
 ## Research task
 
-Analyze the behavior of customers and find the optimal tariff based on the data of the customers of the mobile operator 
+Analyze data from the Yandex.Afisha website (event ticketing platform) in order to optimize marketing costs.Calculated metrics LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI. 
 
 ## Skills and tools
-*Python*, *pandas*, *Matplotlib*, *NumPy*, *SciPy*, *statistical hypothesis testing*
+*Matplotlib*, *pandas*, *cohort analysis*, *marketing metrics*
