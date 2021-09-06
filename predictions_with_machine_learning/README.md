@@ -2,7 +2,7 @@
 
 ## Research task
 
-Analyze the results of an A / B test, build graphs of cumulative revenue, average bill, conversions by group, calculate the statistical significance of differences in conversions and average revenue between two groups. 
+Based on data on visitors of the fitness center, predict the probability of churn for each client in the next month and profile the customers using clustering method
 
 ## Skills and tools
-*pandas*, *A/B testing*, *SciPy*, *Matplotlib*, *statistical hypothesis testing*
+*pandas*, *Machine Learning*, *Scikit-learn*, *Seaborn*, *Matplotlib*, *classification*, *k-means clustering*
